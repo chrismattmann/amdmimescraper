@@ -1,4 +1,4 @@
-NSF Cyber Polar Infrastructure
+NSF Polar Cyber Infrastructure
 =========
 A set of scripts to perform information retrieval and crawling of the 
 [NASA Antarctic Master Directory](http://gcmd.gsfc.nasa.gov/KeywordSearch/Home.do?Portal=amd&MetadataType=0) 
